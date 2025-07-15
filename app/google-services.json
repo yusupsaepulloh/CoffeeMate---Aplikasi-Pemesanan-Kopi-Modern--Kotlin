@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "549642545928",
+    "project_id": "cofeemate-b7e11",
+    "storage_bucket": "cofeemate-b7e11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549642545928:android:2bc0d713d650b115cc9abd",
+        "android_client_info": {
+          "package_name": "com.example.kopiku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGyS90AkcPSyR5Me0wLcDvo9c4g8ehrnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

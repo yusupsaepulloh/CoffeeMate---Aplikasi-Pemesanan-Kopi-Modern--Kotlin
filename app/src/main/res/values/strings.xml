@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CofeeMate</string>
+    <string name="choice_your_nfavorurite_cofee">Choice your\nFavorurite Cofee</string>
+    <string name="get_started">Get Started</string>
+    <string name="kategory">Kategory</string>
+    <string name="popular_coffees">Popular Coffees</string>
+    <string name="see_all">See all</string>
+</resources>
