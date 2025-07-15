@@ -30,4 +30,12 @@ https://res.cloudinary.com/dl5o7ddua/image/upload/fl_animated/v1752581298/Screen
 
 ![CoffeeMate Demo](https://res.cloudinary.com/dl5o7ddua/image/upload/v1752581298/Screenrecorder-2025-07-15-18-56-40-524_1_dwcdrd.gif)
 
+![Welcome](https://res.cloudinary.com/dl5o7ddua/image/upload/v1752585012/Screenshot_2025-07-15-20-06-15-351_com.example.kopiku_iigypd.jpg)
 
+![Dashboard](https://res.cloudinary.com/dl5o7ddua/image/upload/v1752585012/Screenshot_2025-07-15-20-06-20-553_com.example.kopiku_fzobsk.jpg)
+
+![Description](https://res.cloudinary.com/dl5o7ddua/image/upload/v1752585012/Screenshot_2025-07-15-20-06-29-546_com.example.kopiku_dvv6j4.jpg)
+
+![List](https://res.cloudinary.com/dl5o7ddua/image/upload/v1752585012/Screenshot_2025-07-15-20-06-24-964_com.example.kopiku_jha1jk.jpg)
+
+![Cart](https://res.cloudinary.com/dl5o7ddua/image/upload/v1752585011/Screenshot_2025-07-15-20-06-41-925_com.example.kopiku_ppdpva.jpg)
