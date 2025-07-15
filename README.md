@@ -1,6 +1,7 @@
 # CoffeeMate - Aplikasi Pemesanan Kopi Modern ☕📱
 
-<img src="https://dribbble.com/shots/26276902-CofeeMate?added_first_shot=true&new_shot_upload=true&utm_source=Clipboard_Shot&utm_campaign=yusup-saepulloh&utm_content=CofeeMate&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=yusup-saepulloh&utm_content=CofeeMate&utm_medium=Social_Share"/>
+<img src="<img width="400" height="711" alt="image" src="https://github.com/user-attachments/assets/bd2b33cc-dbc5-44b5-af55-0120d941faaa" />
+"/>
 
 
 
