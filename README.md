@@ -5,7 +5,6 @@ Technical Stack:
 [![Platform](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)]
 [![Bahasa](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)]
 [![Database](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)]
-[![Desain](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)]
 [![Development](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white)]
 
 ## Aplikasi CoffeeMate dirancang dengan fitur-fitur sebagai berikut:
