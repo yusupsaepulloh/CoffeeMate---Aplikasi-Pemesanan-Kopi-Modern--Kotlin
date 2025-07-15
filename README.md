@@ -1,7 +1,6 @@
 # CoffeeMate - Aplikasi Pemesanan Kopi Modern ☕📱
 
-
-![CoffeeMate Demo](https://res.cloudinary.com/dl5o7ddua/image/upload/fl_animated/v1752581298/Screenrecorder-2025-07-15-18-56-40-524_1_dwcdrd.gif)
+<img src="https://res.cloudinary.com/dl5o7ddua/image/upload/v1752581298/Screenrecorder-2025-07-15-18-56-40-524_1_dwcdrd.gif" alt="CoffeeMate Demo" width="300"/>
 
 
 
