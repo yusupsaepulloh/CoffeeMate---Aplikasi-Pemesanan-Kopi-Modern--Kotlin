@@ -1,6 +1,6 @@
 # CoffeeMate - Aplikasi Pemesanan Kopi Modern ☕📱
 
-Technical Stack yang Digunakan:
+Technical Stack:
 
 [![Platform](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)]
 [![Bahasa](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)]
